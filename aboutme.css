@@ -1,0 +1,86 @@
+ h1 {
+  color: #9966ff;
+  border-style: double;
+  border-width: 5px;
+}
+h3 {
+  font-family: monospace;
+  font-size: 18px
+}
+h2{
+  font-family: monospace;
+  font-size: 18px
+}
+#funfact2{
+  font-family: monospace;
+  font-size: 17px
+}
+#funfact{
+  font-family: monospace;
+  font-size: 18px
+}
+#aboutme {
+  font-family: monospace;
+  font-size: 17px
+}
+ #list {
+  font-family: monospace;
+  font-size: 17px
+}
+h4{
+  font-family: monospace;
+  font-size: 18px
+}
+#list2{
+  font-family: monospace;
+  font-size: 17px
+}
+h5{
+  font-family: monospace;
+  font-size: 18px
+}
+#photo{
+  width: 30px
+  height: 30px
+}
+#linklist{
+  font-family: monospace;
+  font-size: 17px
+}
+#photo2{
+  font-family: monospace;
+  font-size: 18px
+}
+#table{
+  font-family: monospace;
+  text-align: left
+  font-size: 17px
+}
+#table1{
+  font-family: monospace;
+  font-size: 18px
+}
+body{
+  background-color: gray
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #9966ff;
+    color: white;
+}
+h6 {
+  font-family: monospace;
+  font-size: 18px
+}
+#order{
+  font-family: monospace;
+  font-size: 17px
+}
+h1 {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    margin-right: 900px;
+    margin-left: 100px;
+}
